@@ -3,7 +3,7 @@ I'm Grace **ヾ(＾-＾)**
 
 I'm a Software Engineer with experience in full-stack web development.
 
-- 🧰 Proficient in: TypeScript, JavaScript, SQL, HTML, CSS, React, node.js
+- 🧰 Proficient in: TypeScript, JavaScript, SQL, HTML, CSS, React, Node.js
 - 👷‍♂️ Currently working on: A system for equitable appointment distribution
 - 🌱 Currently learning:  Drizzle ORM, Docker
 - 💬 Ask me about my dog, Bambi 🐶
