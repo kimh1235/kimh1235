@@ -4,8 +4,8 @@ I'm Grace ヾ(＾-＾)
 I'm a Software Engineer with experience in full-stack web development.
 
 - 🧰 Proficient in: TypeScript, JavaScript, SQL, HTML, CSS, React, node.js
-- 👷‍♂️ Currently working on: System for equitable appointment distribution
-- 🌱 Currently learning:  Drizzle ORM, Docker,
+- 👷‍♂️ Currently working on: A System for equitable appointment distribution
+- 🌱 Currently learning:  Drizzle ORM, Docker
 - 💬 Ask me about my dog, Bambi 🐶
 
 
