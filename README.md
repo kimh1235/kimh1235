@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Grace ヾ(＾-＾)
+I'm Grace **ヾ(＾-＾)**
 
 I'm a Software Engineer with experience in full-stack web development.
 
